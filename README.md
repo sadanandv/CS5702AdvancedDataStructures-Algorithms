@@ -15,3 +15,7 @@ This Repository contains the topics discussed in the Advanced Data Structure and
 10. Implementing B-Tree.
 
 
+## Additional Exerises
+
+11. Binary Search
+12. Fibonacii Search
